@@ -49,15 +49,16 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : planisphere.kgz
+  linkedin         : jesushuertaaguilar
+  twitter          : PlanisphereKGZ
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : planisphere.kgz
+  facebook         : planisphere.kgz
   lastfm           : Keyboard_Glazz
-  linkedin         : jesushuertaaguilar
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,12 +66,11 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : PlanisphereKGZ
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : keyboardglazz
+  youtube          : # Username
   zhihu            : # URL
 
 
